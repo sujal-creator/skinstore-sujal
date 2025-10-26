@@ -1,6 +1,6 @@
-# Ecommerce Website Clone
+# Ecommerce Website
 
-This project is a clone of an ecommerce website built for learning purposes. It utilizes HTML, CSS, JavaScript, and React to recreate the frontend user experience of an ecommerce platform.
+This project is an ecommerce website built for learning purposes. It utilizes HTML, CSS, JavaScript, and React to recreate the frontend user experience of an ecommerce platform.
 
 ## Features
 
